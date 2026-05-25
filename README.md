@@ -70,8 +70,8 @@ when, and how.
 
 | Project | Description | Tools |
 |---|---|---|
-| [Windows Event Log Investigation](https://github.com/sudo-rosh/CyberProofs/tree/main/windows-event-logs) | Analysed Windows Security Event Logs, generated and documented Event IDs 4624 and 4625 | Windows Event Viewer, PowerShell |
-| More coming soon | SIEM Lab, Phishing Analysis, Memory Forensics | Wazuh, Autopsy, Volatility |
+| [DFIR Portfolio](https://github.com/sudo-rosh/dfir-portfolio) | Hands-on Digital Forensics and Incident Response journey focused on practical investigations, artifact analysis, incident handling, and real-world DFIR workflows. | FTK Imager, Volatility 3 |
+| More coming soon | SIEM Lab, Phishing Analysis, Memory Forensics | Wazuh, Autopsy |
 
 ---
 
