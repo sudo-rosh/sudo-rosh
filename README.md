@@ -1,7 +1,7 @@
 # Hi, I'm Roshini Rachel John 👋
 
 **MSc Cybersecurity & Digital Forensics** | SOC Analyst | DFIR Enthusiast  
-📍 Bangalore, India | Open to UAE opportunities  
+📍 Dubai, UAE | Open to India & Gulf opportunities  
 📫 roshini.john02@gmail.com | [LinkedIn](https://www.linkedin.com/in/roshini-john)
 
 ---
