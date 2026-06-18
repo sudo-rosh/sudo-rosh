@@ -70,7 +70,7 @@ when, and how.
 
 | Project | Description | Tools |
 |---|---|---|
-| [DFIR Portfolio](https://github.com/sudo-rosh/dfir-portfolio) | Hands-on Digital Forensics and Incident Response journey focused on practical investigations, artifact analysis, incident handling, and real-world DFIR workflows. | FTK Imager, Volatility 3 |
+| [Networking Portfolio](https://github.com/sudo-rosh/dfir-portfolio) | Hands-on Networking for cybersecurity journey focused on hands-on experience designing, configuring, securing, monitoring, and troubleshooting networks through documented labs and real-world projects. | Wireshark, Cisco Packet Tracer |
 | More coming soon | SIEM Lab, Phishing Analysis, Memory Forensics | Wazuh, Autopsy |
 
 ---
